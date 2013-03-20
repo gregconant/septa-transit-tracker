@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SeptaGPSAndroid</string>
+    <string name="intro_desc">Find nearest:</string>
+    <string name="route_wait_message">Finding routes...</string>
+    <string name="septa_bus_route_endpoint_base">http://www3.septa.org/transitview/bus_route_data/</string>""
+</resources>
